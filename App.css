@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+  }
+  
+  textarea {
+    width: 80%;
+    margin: 20px 0;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
